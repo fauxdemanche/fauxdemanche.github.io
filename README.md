@@ -1,4 +1,4 @@
 # fauxdemanche.github.io
-Faux Demanche 
+The Faux Demanche 
 
 fauxdemanche.com - meet your master, baby
