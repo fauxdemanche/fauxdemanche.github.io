@@ -1,5 +1,5 @@
 # fauxdemanche.github.io
-Faux Demanche 
+The Faux Demanche 
 
-fauxdemanche.com
+fauxdemanche.com - meet your master, baby
 am i dev branch? yes i am
